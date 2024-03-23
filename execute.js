@@ -6,5 +6,5 @@ alert('Wrong Tomato');
 }
 
   if(document.getElementById('lone_tomato').value == password) {
-alert('Correct');
+alert('Correct Tomato');
 }
